@@ -1,8 +1,9 @@
 # App_store
-                                                    App store analysis 
-![1_JA6oELHXXNUjCPruio6glw](https://github.com/Mohamedjassim17/App_store/assets/134086605/1afda4e8-a474-4c4c-af20-1d8a4dc1a3f5)
+                                                    OverView
 
-INTRODUCTION
+  ![Uploading secret-of-mobile-apps.jpg…]()
+
+
 •The percentage of mobile usage is steadily increasing, with mobile devices now surpassing desktop usage.
 •Android commands a dominant share of approximately 53.2% in the smartphone market, while iOS accounts for around 43%.
 •Ensuring your app's visibility is crucial for attracting more downloads. This is where K-Means clustering can play a role. By categorizing and grouping apps based on user behavior and preferences, you can enhance app discoverability.
