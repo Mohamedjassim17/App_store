@@ -1,8 +1,7 @@
 # App_store
                                                     OverView
-
-  ![Uploading secret-of-mobile-apps.jpg…]()
-
+                                                    
+![secret-of-mobile-apps](https://github.com/Mohamedjassim17/App_store/assets/134086605/94477041-ce67-4233-98e5-62536c26be08)
 
 •The percentage of mobile usage is steadily increasing, with mobile devices now surpassing desktop usage.
 •Android commands a dominant share of approximately 53.2% in the smartphone market, while iOS accounts for around 43%.
