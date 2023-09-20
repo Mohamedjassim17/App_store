@@ -1,7 +1,6 @@
 # App_store
                                                        OverView
-                                                    
-![secret-of-mobile-apps](https://github.com/Mohamedjassim17/App_store/assets/134086605/94477041-ce67-4233-98e5-62536c26be08)
+                                                
 
 ![1_JA6oELHXXNUjCPruio6glw](https://github.com/Mohamedjassim17/App_store/assets/134086605/6511ff8f-ccd9-48bb-9666-36cd3906f90b)
 
