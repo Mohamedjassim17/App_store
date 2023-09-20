@@ -15,8 +15,7 @@
  •For this analysis, we employ the K-Means machine learning algorithm.
 
                                                        Intel DevCloud
-                                                    
-                                                        ![269156072-9a8cf200-f66d-46c3-a22e-fbef076d73e1](https://github.com/Mohamedjassim17/App_store/assets/134086605/4fea7a5e-63c7-46ef-be0f-f2edd49e07c1)
+  ![269156072-9a8cf200-f66d-46c3-a22e-fbef076d73e1](https://github.com/Mohamedjassim17/App_store/assets/134086605/4fea7a5e-63c7-46ef-be0f-f2edd49e07c1)
 
 DevCloud for oneAPI provides a library of highly optimized algorithms for data preprocessing and analysis, specifically designed to accelerate machine learning workloads on a diverse set of Intel architectures. DevCloud is an all-in-one online destination to test the performance of your AI models on Intel processors. It's a dedicated space that allows developers and engineers to innovate in a production-ready space. What's great about this platform is that it gives you access to dedicated Intel technology – without having to invest in hardware upfront.
 
