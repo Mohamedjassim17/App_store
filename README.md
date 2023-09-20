@@ -6,8 +6,12 @@
 
                                                       Introduction
 
-Nowadays, the percentage of mobile usage over desktop is steadily increasing. Android holds approximately 53.2% of the smartphone market, while iOS accounts for 43%.
+ •Nowadays, the percentage of mobile usage compared to desktop is continually increasing. Android holds approximately 53.2% of the smartphone market, while iOS commands a 43% share.
 
-The machine learning algorithm K-Means is used for this analysis.
+ •When it comes to app preferences, we aim to determine whether users tend to download paid or free apps more frequently. 
+
+ •Additionally, we analyze the ratings associated with these apps and provide visualizations to illustrate the findings.
+
+ •For this analysis, we employ the K-Means machine learning algorithm.
 
                                                        Intel DevCloud
