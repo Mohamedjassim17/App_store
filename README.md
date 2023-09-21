@@ -101,9 +101,12 @@ The count of free app users and paid app
 
 ![image](https://github.com/Mohamedjassim17/App_store/assets/134086605/1b88f535-aec2-4a5e-909d-4918b96edbd2)
 
-• Top Price in important Category (Business , Navigation , Education , Productivity )
+• Top Price in important Category (Business , Navigation , Education , Productivity )                                               
+
 • in another side price for all of apps less than 50 USD
+
 • Education Apps has a higher price
+
 • Shopping Apps has a lower price
 
 
