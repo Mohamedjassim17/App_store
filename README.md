@@ -29,12 +29,20 @@ This project is executed in Jupyter Notebook provided by Intel DevCloud, in One 
                                                        Importing Libraries:
                                                     
  • pandas and numpy are used for data manipulation and numerical operations.
+ 
  • matplotlib.pyplot is used for creating data visualizations.
+
  • seaborn is a data visualization library that works well with pandas.
+ 
  • warnings is used to suppress warning messages.
+ 
  • RobustScaler is an instance of scikit-learn's RobustScaler, used for robust data scaling.
+ 
  • KMeans is a clustering algorithm from scikit-learn used for K-Means clustering.
+ 
  • silhouette_score is a metric used to evaluate the quality of clusters.
+
+ • PPS (Predictive Power Score)
 
                                                       Data set information
 1. Column Name: id,
