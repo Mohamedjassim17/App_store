@@ -66,18 +66,18 @@ This project is executed in Jupyter Notebook provided by Intel DevCloud, in One 
 | vpp_lic           | Vpp Device Based Licensing Enabled              |
 
 
-                                                        Visualtion
+                                                        Exploratory Data Analaysis
     
-• The top app categories are used for data visualization with Seaborn.
+• The highest people are exclusively using this app category, and we will visualize the data using Seaborn.
 
  ![image](https://github.com/Mohamedjassim17/App_store/assets/134086605/913bed01-b0a7-4c78-bbae-3572ecb2da67)
 
-• The low app categories are used for data visualization with Seaborn.
+•  The lowest people are exclusively using this app category, and we will visualize the data using Seaborn.
 
 ![image](https://github.com/Mohamedjassim17/App_store/assets/134086605/675a2a5c-4cb6-48a4-8c48-7c5fbc142945)
 
 
-The count of free app users and paid app
+                                            The count of free app users and paid app
 
 ![image](https://github.com/Mohamedjassim17/App_store/assets/134086605/1b88f535-aec2-4a5e-909d-4918b96edbd2)
 
@@ -88,6 +88,31 @@ The count of free app users and paid app
 • Education Apps has a higher price
 
 • Shopping Apps has a lower price
+
+                                             The distribution of ratings for paid apps
+ 
+ ![download (8)](https://github.com/Mohamedjassim17/App_store/assets/134086605/60d8813d-1bc5-45b0-897a-9f9b009741aa)
+
+                                                      Data Model
+
+Label Encoding:
+
+              Label Encoding is a technique used to convert categorical data into numerical format, 
+              
+              making it suitable for machine learning models.
+
+Standardizing with RobustScaler:
+
+              Standardizing data with RobustScaler in machine learning is a preprocessing step that helps ensure that all features have consistent scales, 
+              
+              making it easier for machine learning algorithms to work effectively, especially in the presence of outliers.
+
+K-Means Clustering Model:
+
+                K-Means is a clustering algorithm used to group data points into clusters based on their similarity,
+                
+                it's commonly used in various applications to discover meaningful patterns within data.
+
 
 
 
