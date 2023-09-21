@@ -87,6 +87,7 @@ This project is executed in Jupyter Notebook provided by Intel DevCloud, in One 
 
 
                                                         Visualtion
+    
 • The top app categories are used for data visualization with Seaborn.
 
  ![image](https://github.com/Mohamedjassim17/App_store/assets/134086605/913bed01-b0a7-4c78-bbae-3572ecb2da67)
