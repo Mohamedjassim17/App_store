@@ -25,4 +25,45 @@ Key Features
 The latest Intel hardware, including Intel Core processors, Intel Xeon Scalable processors, Intel IoT developer kits and Intel FPGAs
 Intel-optimized frameworks – the latest version of OpenVINO
 This project is executed in Jupyter Notebook provided by Intel DevCloud, in One API platform
+
+                                                       Importing Libraries:
                                                     
+ • pandas and numpy are used for data manipulation and numerical operations.
+ • matplotlib.pyplot is used for creating data visualizations.
+ • seaborn is a data visualization library that works well with pandas.
+ • warnings is used to suppress warning messages.
+ • RobustScaler is an instance of scikit-learn's RobustScaler, used for robust data scaling.
+ • KMeans is a clustering algorithm from scikit-learn used for K-Means clustering.
+ • silhouette_score is a metric used to evaluate the quality of clusters.
+
+                                                      Data set information
+  
+--------------------------------------------------------------
+| Column Name      | Description                              |
+--------------------------------------------------------------
+| id               | App ID                                   |
+| track_name       | App Name                                 |
+| size_bytes       | App Size (in bytes)                      |
+| currency         | Currency Type                            |
+| price            | Price (in currency)                      |
+| ratingcounttot   | User Ratings (All Versions)              |
+| ratingcountver   | User Ratings (Current Version)           |
+| user_rating      | Average User Rating (All Versions)       |
+| userratingver    | Average User Rating (Current Version)    |
+| ver              | Latest Version Code                      |
+| cont_rating      | Content Rating                           |
+| prime_genre      | Primary Genre                            |
+| sup_devices.num  | Supported Devices Count                  |
+| ipadSc_urls.num  | Screenshots Count for Display            |
+| lang.num         | Supported Languages Count                |
+| vpp_lic          | VPP Device-Based Licensing Enabled       |
+---------------------------------------------------------------
+
+                                                        Visualtion
+The top app categories are utilized for in-depth data visualization and analysis using the Seaborn library,
+allowing us to gain valuable insights into the trends and patterns within these categories. 
+
+ ![image](https://github.com/Mohamedjassim17/App_store/assets/134086605/913bed01-b0a7-4c78-bbae-3572ecb2da67)
+
+                                          
+                                              
