@@ -37,27 +37,54 @@ This project is executed in Jupyter Notebook provided by Intel DevCloud, in One 
  • silhouette_score is a metric used to evaluate the quality of clusters.
 
                                                       Data set information
-  
---------------------------------------------------------------
-| Column Name      | Description                              |
---------------------------------------------------------------
-| id               | App ID                                   |
-| track_name       | App Name                                 |
-| size_bytes       | App Size (in bytes)                      |
-| currency         | Currency Type                            |
-| price            | Price (in currency)                      |
-| ratingcounttot   | User Ratings (All Versions)              |
-| ratingcountver   | User Ratings (Current Version)           |
-| user_rating      | Average User Rating (All Versions)       |
-| userratingver    | Average User Rating (Current Version)    |
-| ver              | Latest Version Code                      |
-| cont_rating      | Content Rating                           |
-| prime_genre      | Primary Genre                            |
-| sup_devices.num  | Supported Devices Count                  |
-| ipadSc_urls.num  | Screenshots Count for Display            |
-| lang.num         | Supported Languages Count                |
-| vpp_lic          | VPP Device-Based Licensing Enabled       |
----------------------------------------------------------------
+1. Column Name: id
+   Description: App ID
+
+2. Column Name: track_name
+   Description: App Name
+
+3. Column Name: size_bytes
+   Description: App Size in bytes
+
+4. Column Name: currency
+   Description: Currency Type
+
+5. Column Name: price
+   Description: Price amount
+
+6. Column Name: ratingcounttot
+   Description: User Rating counts (for all versions)
+
+7. Column Name: ratingcountver
+   Description: User Rating counts (for current version)
+
+8. Column Name: user_rating
+   Description: Average User Rating value (for all versions)
+
+9. Column Name: userratingver
+   Description: Average User Rating value (for current version)
+
+10. Column Name: ver
+    Description: Latest version code
+
+11. Column Name: cont_rating
+    Description: Content Rating
+
+12. Column Name: prime_genre
+    Description: Primary Genre
+
+13. Column Name: sup_devices.num
+    Description: Number of supporting devices
+
+14. Column Name: ipadSc_urls.num
+    Description: Number of screenshots showed for display
+
+15. Column Name: lang.num
+    Description: Number of supported languages
+
+16. Column Name: vpp_lic
+    Description: Vpp Device Based Licensing Enabled
+
 
                                                         Visualtion
 The top app categories are utilized for in-depth data visualization and analysis using the Seaborn library,
