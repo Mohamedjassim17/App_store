@@ -45,53 +45,25 @@ This project is executed in Jupyter Notebook provided by Intel DevCloud, in One 
  • PPS (Predictive Power Score)
 
                                                       Data set information
-1. Column Name: id,
-   Description: App ID
 
-2. Column Name: track_name,
-   Description: App Name
-
-3. Column Name: size_bytes,
-   Description: App Size in bytes
-
-4. Column Name: currency,
-   Description: Currency Type
-
-5. Column Name: price,
-   Description: Price amount
-
-6. Column Name: ratingcounttot,
-   Description: User Rating counts (for all versions)
-
-7. Column Name: ratingcountver,
-   Description: User Rating counts (for current version)
-
-8. Column Name: user_rating,
-   Description: Average User Rating value (for all versions)
-
-9. Column Name: userratingver,
-   Description: Average User Rating value (for current version)
-
-10. Column Name: ver,
-    Description: Latest version code
-
-11. Column Name: cont_rating,
-    Description: Content Rating
-
-12. Column Name: prime_genre,
-    Description: Primary Genre
-
-13. Column Name: sup_devices.num,
-    Description: Number of supporting devices
-
-14. Column Name: ipadSc_urls.num,
-    Description: Number of screenshots showed for display
-
-15. Column Name: lang.num,
-    Description: Number of supported languages
-
-16. Column Name: vpp_lic,
-    Description: Vpp Device Based Licensing Enabled
+| Column Name       | Description                                     |
+|-------------------|-------------------------------------------------|
+| id                | App ID                                          |
+| track_name        | App Name                                        |
+| size_bytes        | App Size in bytes                               |
+| currency          | Currency Type                                   |
+| price             | Price amount                                    |
+| ratingcounttot    | User Rating counts (for all versions)          |
+| ratingcountver    | User Rating counts (for current version)       |
+| user_rating       | Average User Rating value (for all versions)   |
+| userratingver     | Average User Rating value (for current version)|
+| ver               | Latest version code                             |
+| cont_rating       | Content Rating                                  |
+| prime_genre       | Primary Genre                                   |
+| sup_devices.num   | Number of supporting devices                    |
+| ipadSc_urls.num   | Number of screenshots showed for display       |
+| lang.num          | Number of supported languages                   |
+| vpp_lic           | Vpp Device Based Licensing Enabled              |
 
 
                                                         Visualtion
