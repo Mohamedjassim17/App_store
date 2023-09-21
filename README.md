@@ -37,60 +37,70 @@ This project is executed in Jupyter Notebook provided by Intel DevCloud, in One 
  • silhouette_score is a metric used to evaluate the quality of clusters.
 
                                                       Data set information
-1. Column Name: id
+1. Column Name: id,
    Description: App ID
 
-2. Column Name: track_name
+2. Column Name: track_name,
    Description: App Name
 
-3. Column Name: size_bytes
+3. Column Name: size_bytes,
    Description: App Size in bytes
 
-4. Column Name: currency
+4. Column Name: currency,
    Description: Currency Type
 
-5. Column Name: price
+5. Column Name: price,
    Description: Price amount
 
-6. Column Name: ratingcounttot
+6. Column Name: ratingcounttot,
    Description: User Rating counts (for all versions)
 
-7. Column Name: ratingcountver
+7. Column Name: ratingcountver,
    Description: User Rating counts (for current version)
 
-8. Column Name: user_rating
+8. Column Name: user_rating,
    Description: Average User Rating value (for all versions)
 
-9. Column Name: userratingver
+9. Column Name: userratingver,
    Description: Average User Rating value (for current version)
 
-10. Column Name: ver
+10. Column Name: ver,
     Description: Latest version code
 
-11. Column Name: cont_rating
+11. Column Name: cont_rating,
     Description: Content Rating
 
-12. Column Name: prime_genre
+12. Column Name: prime_genre,
     Description: Primary Genre
 
-13. Column Name: sup_devices.num
+13. Column Name: sup_devices.num,
     Description: Number of supporting devices
 
-14. Column Name: ipadSc_urls.num
+14. Column Name: ipadSc_urls.num,
     Description: Number of screenshots showed for display
 
-15. Column Name: lang.num
+15. Column Name: lang.num,
     Description: Number of supported languages
 
-16. Column Name: vpp_lic
+16. Column Name: vpp_lic,
     Description: Vpp Device Based Licensing Enabled
 
 
                                                         Visualtion
-The top app categories are utilized for in-depth data visualization and analysis using the Seaborn library,
-allowing us to gain valuable insights into the trends and patterns within these categories. 
+• The top app categories are used for data visualization with Seaborn.
 
  ![image](https://github.com/Mohamedjassim17/App_store/assets/134086605/913bed01-b0a7-4c78-bbae-3572ecb2da67)
+
+• The low app categories are used for data visualization with Seaborn.
+
+![image](https://github.com/Mohamedjassim17/App_store/assets/134086605/675a2a5c-4cb6-48a4-8c48-7c5fbc142945)
+
+
+
+
+
+
+
 
                                           
                                               
