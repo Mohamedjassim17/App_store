@@ -97,24 +97,25 @@ This project is executed in Jupyter Notebook provided by Intel DevCloud, in One 
 
 Label Encoding:
 
-              Label Encoding is a technique used to convert categorical data into numerical format, 
+   Label Encoding is a technique used to convert categorical data into numerical format, 
               
-              making it suitable for machine learning models.
+   making it suitable for machine learning models.
 
 Standardizing with RobustScaler:
 
-              Standardizing data with RobustScaler in machine learning is a preprocessing step that helps ensure that all features have consistent scales, 
+      Standardizing data with RobustScaler in machine learning is a preprocessing step that helps ensure that all features have consistent scales, 
               
-              making it easier for machine learning algorithms to work effectively, especially in the presence of outliers.
+      making it easier for machine learning algorithms to work effectively, especially in the presence of outliers.
 
 K-Means Clustering Model:
 
-                K-Means is a clustering algorithm used to group data points into clusters based on their similarity,
+         K-Means is a clustering algorithm used to group data points into clusters based on their similarity,
                 
-                it's commonly used in various applications to discover meaningful patterns within data.
+         it's commonly used in various applications to discover meaningful patterns within data.
 
 
-                                              conclusion
+                                             
+    conclusion
                                               
  The data analysis will be most useful for Android developers because it identifies the top app categories that are developed extensively. 
  
