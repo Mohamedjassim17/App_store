@@ -114,7 +114,13 @@ K-Means Clustering Model:
                 it's commonly used in various applications to discover meaningful patterns within data.
 
 
-
+                                              conclusion
+                                              
+ The data analysis will be most useful for Android developers because it identifies the top app categories that are developed extensively. 
+ 
+ It also sheds light on less popular categories and the types of apps that are being developed within those categories.
+ 
+ These insights are valuable for developers working on scenario-based projects
 
 
 
